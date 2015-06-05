@@ -1,0 +1,405 @@
+
+sprites.png
+size: 509,110
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemy-0
+  rotate: false
+  xy: 300, 40
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+enemy-3
+  rotate: false
+  xy: 300, 40
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+enemy-1
+  rotate: false
+  xy: 89, 38
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+enemy-2
+  rotate: false
+  xy: 146, 2
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+enemy-26
+  rotate: false
+  xy: 434, 40
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+enemy-4
+  rotate: false
+  xy: 2, 76
+  size: 85, 34
+  orig: 85, 34
+  offset: 0, 0
+  index: -1
+enemy-5
+  rotate: false
+  xy: 89, 76
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+enemy-6
+  rotate: false
+  xy: 169, 76
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+enemy-7
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-27
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-9
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-21
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-23
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-19
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-11
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-17
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-15
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-25
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-13
+  rotate: false
+  xy: 231, 40
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+enemy-8
+  rotate: false
+  xy: 447, 76
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+enemy-14
+  rotate: false
+  xy: 447, 76
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+enemy-20
+  rotate: false
+  xy: 447, 76
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+enemy-24
+  rotate: false
+  xy: 447, 76
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+enemy-22
+  rotate: false
+  xy: 447, 76
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+enemy-12
+  rotate: false
+  xy: 447, 76
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+enemy-18
+  rotate: false
+  xy: 447, 76
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+enemy-16
+  rotate: false
+  xy: 447, 76
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+enemy-10
+  rotate: false
+  xy: 447, 76
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-0
+  rotate: false
+  xy: 380, 76
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+ship-3
+  rotate: false
+  xy: 380, 76
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+ship-1
+  rotate: false
+  xy: 160, 38
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+ship-2
+  rotate: false
+  xy: 205, 2
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+ship-4
+  rotate: false
+  xy: 2, 40
+  size: 85, 34
+  orig: 85, 34
+  offset: 0, 0
+  index: -1
+ship-5
+  rotate: false
+  xy: 2, 4
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+ship-6
+  rotate: false
+  xy: 240, 76
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+ship-7
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-19
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-21
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-25
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-9
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-15
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-27
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-13
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-17
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-23
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-11
+  rotate: false
+  xy: 311, 76
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+ship-8
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-26
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-20
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-16
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-14
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-10
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-12
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-24
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-18
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-22
+  rotate: false
+  xy: 82, 2
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ship-idle
+  rotate: false
+  xy: 367, 40
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1

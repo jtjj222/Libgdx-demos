@@ -5,6 +5,5 @@ Some libgdx projects I worked on to learn about game development in grade 11 com
 
 Screenshots
 ------
-![](Screenshot%20from%202014-12-24%2016%3A56%3A46.png)
-~[](Screenshot%20from%202014-12-28%2014%3A06%3A17.png)
+In the directory
 
