@@ -1,0 +1,594 @@
+
+sprites.png
+size: 126,503
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1up
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Brick
+  rotate: false
+  xy: 20, 214
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BrickBlue
+  rotate: false
+  xy: 20, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Coin1
+  rotate: false
+  xy: 108, 399
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Coin2
+  rotate: false
+  xy: 118, 399
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Coin4
+  rotate: false
+  xy: 118, 399
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Coin3
+  rotate: false
+  xy: 36, 275
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Flagpole
+  rotate: false
+  xy: 2, 335
+  size: 16, 168
+  orig: 16, 168
+  offset: 0, 0
+  index: -1
+FlagpoleFlag
+  rotate: false
+  xy: 20, 178
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GoombaDead
+  rotate: false
+  xy: 70, 459
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+GoombaWalking
+  rotate: false
+  xy: 20, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GoombaWalking1
+  rotate: false
+  xy: 20, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Koopa1
+  rotate: false
+  xy: 2, 72
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Koopa2
+  rotate: false
+  xy: 2, 46
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+KoopaShell1
+  rotate: false
+  xy: 20, 125
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+KoopaShell2
+  rotate: false
+  xy: 56, 352
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+MarioDeadLeftBig
+  rotate: false
+  xy: 90, 381
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+MarioDeadRightSmall
+  rotate: false
+  xy: 90, 381
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+MarioDeadRightBig
+  rotate: false
+  xy: 90, 381
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+MarioDeadLeftSmall
+  rotate: false
+  xy: 90, 381
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+MarioDeadLeftReverse
+  rotate: false
+  xy: 90, 381
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+MarioDeadRightReverse
+  rotate: false
+  xy: 90, 381
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+MarioDefault
+  rotate: false
+  xy: 56, 477
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+MarioRestRightSmall
+  rotate: false
+  xy: 56, 477
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+MarioJumpLeftBig
+  rotate: false
+  xy: 2, 301
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioJumpLeftReverse
+  rotate: false
+  xy: 20, 461
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioJumpLeftSmall
+  rotate: false
+  xy: 70, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MarioJumpRightBig
+  rotate: false
+  xy: 2, 267
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioJumpRightReverse
+  rotate: false
+  xy: 20, 427
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioJumpRightSmall
+  rotate: false
+  xy: 88, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MarioRestLeftBig
+  rotate: false
+  xy: 38, 461
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioWalking0LeftBig
+  rotate: false
+  xy: 38, 461
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioRestLeftReverse
+  rotate: false
+  xy: 2, 233
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioWalking0LeftReverse
+  rotate: false
+  xy: 2, 233
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioRestLeftSmall
+  rotate: false
+  xy: 56, 459
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+MarioRestRightBig
+  rotate: false
+  xy: 20, 393
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioWalking0RightBig
+  rotate: false
+  xy: 20, 393
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioRestRightReverse
+  rotate: false
+  xy: 38, 427
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioWalking0RightReverse
+  rotate: false
+  xy: 38, 427
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioTurnaroundLeftBig
+  rotate: false
+  xy: 2, 199
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioTurnaroundLeftReverse
+  rotate: false
+  xy: 20, 359
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioTurnaroundLeftSmall
+  rotate: false
+  xy: 56, 441
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+MarioTurnaroundRightBig
+  rotate: false
+  xy: 38, 393
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioTurnaroundRightReverse
+  rotate: false
+  xy: 2, 165
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioTurnaroundRightSmall
+  rotate: false
+  xy: 56, 423
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+MarioWalking0LeftSmall
+  rotate: false
+  xy: 56, 405
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+MarioWalking0RightSmall
+  rotate: false
+  xy: 56, 387
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+MarioWalking1LeftBig
+  rotate: false
+  xy: 20, 325
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioWalking1LeftReverse
+  rotate: false
+  xy: 38, 359
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioWalking1LeftSmall
+  rotate: false
+  xy: 56, 369
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+MarioWalking1RightBig
+  rotate: false
+  xy: 2, 131
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioWalking1RightReverse
+  rotate: false
+  xy: 20, 291
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+MarioWalking1RightSmall
+  rotate: false
+  xy: 72, 405
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+MarioWalking2LeftBig
+  rotate: false
+  xy: 38, 326
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+MarioWalking2LeftReverse
+  rotate: false
+  xy: 2, 98
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+MarioWalking2LeftSmall
+  rotate: false
+  xy: 71, 441
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+MarioWalking2RightBig
+  rotate: false
+  xy: 20, 258
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+MarioWalking2RightReverse
+  rotate: false
+  xy: 38, 293
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+MarioWalking2RightSmall
+  rotate: false
+  xy: 71, 423
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+MovingPlatform
+  rotate: false
+  xy: 20, 495
+  size: 48, 8
+  orig: 48, 8
+  offset: 0, 0
+  index: -1
+Mushroom
+  rotate: false
+  xy: 106, 487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ParaKoopa1
+  rotate: false
+  xy: 2, 20
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+ParaKoopa2
+  rotate: false
+  xy: 20, 232
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Question1
+  rotate: false
+  xy: 70, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Question2
+  rotate: false
+  xy: 88, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Question3
+  rotate: false
+  xy: 106, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Question4
+  rotate: false
+  xy: 88, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Question5
+  rotate: false
+  xy: 88, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Question6
+  rotate: false
+  xy: 106, 451
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+QuestionUsed
+  rotate: false
+  xy: 106, 433
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ReverseMushroom
+  rotate: false
+  xy: 88, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coinIcon
+  rotate: false
+  xy: 90, 371
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+flower1
+  rotate: false
+  xy: 106, 415
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: false
+  xy: 72, 387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower3
+  rotate: false
+  xy: 72, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower4
+  rotate: false
+  xy: 18, 107
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower5
+  rotate: false
+  xy: 54, 334
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower6
+  rotate: false
+  xy: 54, 316
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower7
+  rotate: false
+  xy: 54, 298
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower8
+  rotate: false
+  xy: 74, 351
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 72, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 72, 315
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 72, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+star4
+  rotate: false
+  xy: 90, 397
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit trunk//EN" "http://google-web-toolkit.googlecode.com/svn/trunk/distro-source/core/src/gwt-module.dtd">
+<module>
+	<source path="me/justin" />
+    <!-- For using reflection to load level objects -->
+    <extend-configuration-property name="gdx.reflect.include" value="me.justin" />
+    <extend-configuration-property name="gdx.reflect.include" value="me.justin.entities" />
+    <extend-configuration-property name="gdx.reflect.include" value="com.badlogic.gdx.maps.MapProperties" />
+</module>
