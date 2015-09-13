@@ -51,7 +51,7 @@ public class SimplePlatformDemo1Player {
     public void update(float delta) {
         position.set(body.getPosition().x * SimplePlatformDemo1.pixelsPerMetre, body.getPosition().y * SimplePlatformDemo1.pixelsPerMetre);
 
-        //Apply force (i.e, always acting upon the object until an opposite force is applied)
+        //Apply force (i.e, object remains in motion until an opposite force is applied)
         if (Gdx.input.isKeyPressed(Input.Keys.A)) body.applyForceToCenter(-250,0,true);
         if (Gdx.input.isKeyPressed(Input.Keys.D)) body.applyForceToCenter(250,0,true);
 
